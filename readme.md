@@ -19,4 +19,5 @@ Cada equipe da turma NSIN é contratada pelo porto digital para implementar os p
  - vi. No mínimo uma função javascript 
  # - 4. Entrega: 
  - a. Entregar no dia 23/11.22 
- - b. Compactar toda a pasta com o nome do projeto. Exemplo: projeto.zip c. No classroom, mandar o arquivo compactado e listar os integrantes da equipe na atividade que será criada apenas para entrega (SÓ UM INTEGRANTE DA EQUIPE ENVIA O ARQUIVO).  
+ - b. Compactar toda a pasta com o nome do projeto. Exemplo: projeto.zip c. No classroom, mandar o arquivo compactado e listar os integrantes da equipe na atividade que será criada apenas para entrega (SÓ UM INTEGRANTE DA EQUIPE ENVIA O ARQUIVO). 
+ - c. No dia 23/11.22 apresentar telas para o professor
